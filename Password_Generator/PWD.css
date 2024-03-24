@@ -1,0 +1,29 @@
+.main-container {
+    background-color: aquamarine;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pwd-card {
+    background-color: aliceblue;
+    border-radius: 15px;
+    border-width: 0px;
+    padding:30px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.inputs-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
